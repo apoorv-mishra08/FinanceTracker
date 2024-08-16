@@ -22,6 +22,6 @@ Finance Tracker is a web application designed to simplify managing your finances
 
 ## Contact
 
-For any questions or inquiries, feel free to reach out at [email protected].
+For any questions or inquiries, feel free to reach out at apoorvmishra0809@gmail.com 
 
 Happy Saving!
